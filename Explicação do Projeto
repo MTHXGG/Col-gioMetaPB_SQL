@@ -1,0 +1,49 @@
+Sistema Escolar - Colégio MetaPB
+
+Projeto de Banco de Dados desenvolvido em MySQL para gerenciamento escolar.
+
+O sistema possui estrutura relacional completa para controle de:
+
+- alunos
+- professores
+- disciplinas
+- turmas
+- matrículas
+- notas
+
+O projeto foi construído utilizando conceitos de modelagem relacional, integridade referencial e consultas SQL.
+
+Tecnologias Utilizadas
+
+- MySQL
+- SQL
+
+Conceitos Aplicados
+
+- CREATE TABLE
+- PRIMARY KEY
+- FOREIGN KEY
+- INSERT INTO
+- SELECT
+- WHERE
+- ORDER BY
+- JOIN
+
+Funcionalidades do Banco
+
+- Cadastro de alunos
+- Cadastro de professores
+- Cadastro de disciplinas
+- Cadastro de turmas
+- Relacionamento entre professor, disciplina e turma
+- Controle de matrículas
+- Lançamento de notas
+- Consultas relacionais entre tabelas
+
+Objetivo
+
+O objetivo do projeto é praticar modelagem de banco de dados e 
+desenvolvimento de consultas SQL aplicadas a um sistema escolar realista.
+
+Autor
+Matheus Alves
